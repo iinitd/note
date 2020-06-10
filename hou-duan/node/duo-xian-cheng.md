@@ -81,7 +81,7 @@ if (isMainThread) {
 
 ## 多进程的其他实现
 
-spawn\(\)，exec\(\)，execFile\(\)和fork\(\)
+spawn\(\)，exec\(\)，execFile\(\) 和 fork\(\)
 
 spawn 基于 stream，可以通过 stdio 通信。
 
